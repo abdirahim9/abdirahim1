@@ -1,0 +1,43 @@
+.best {
+  transform: rotate(90deg);
+  border-radius: 50%
+}
+.yes {
+  width: 700px;
+  height: 200px;
+  color: white;
+  margin: 0 auto;
+  margin-top: 40px;
+  text-align: center;
+}
+html {
+  background: url(../images/reality.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: sans-serif;
+}
+.social{
+  font-size: 50px;
+
+}
+.social a {
+  color: white
+}
+
+.line {
+  width: 500px;
+  margin: 0 auto;
+  border-top: 1px solid white
+}
+
+.Love {
+  color: yellow;
+  text-align-last: left;
+  width: 65px;
+}
+
+.wow {
+  color:red;
+}
